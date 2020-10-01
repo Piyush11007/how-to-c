@@ -4,6 +4,6 @@
  int main ()
  {
  
-    printf("\033[31;4;1mhello")
+    printf("\033[31;4;1mhello friends we are here to enjoy you");
  
  }
